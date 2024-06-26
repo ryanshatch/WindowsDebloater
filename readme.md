@@ -1,14 +1,21 @@
+<hr>
+
 # Win11Debloat
 
 Win11Debloat is a simple, easy to use and lightweight powershell script that can remove pre-installed Windows bloatware apps, disable telemetry and declutter the experience by disabling or removing intrusive interface elements, ads and more. No need to painstakingly go through all the settings yourself, or remove apps one by one. Win11Debloat makes the process quick and easy!
 
 You can pick and choose exactly which modifications you want the script to make, or use the default settings. If you are unhappy with any of the changes you can easily revert them by using the registry files that are included in the 'Regfiles' folder. All of the apps that are removed can be reinstalled from the Microsoft store.
+<hr>
 
 ![Win11Debloat Menu](/Assets/menu.png)
 
-#### Did this script help you? Please consider buying me a cup of coffee to support my work
+##
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5C6UPC)
+#### Did this script help you debloat your PC? Please consider buying me a cup of coffee to support my work
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ryanshatch)
+##### Fact: I love caffeine. 
+<hr>
 
 ## Features 
 
